@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Backend For Fun
+Full Stack For Fun
 
 
 ## 🌐 Socials:
